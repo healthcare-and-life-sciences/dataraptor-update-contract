@@ -1,3 +1,4 @@
+![](/images/ahlsbanner.png)
 <h1 id='DUfACAaHxVP'>A-HLS - DataRaptor Library - DRUpdateContract Documentation</h1>
 
 <i>This DataRaptor acts as a base for developers to update existing contracts quickly.</i><br/>
